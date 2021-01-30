@@ -1,0 +1,12 @@
+.whole-form{
+    position: relative;
+    right: 45%;
+    box-shadow: 0px 1px 6px rgba(102, 73, 73, 0.8);
+    border-radius: 8px;
+}
+body h3{
+    color:rgb(53, 11, 58);
+}
+/* .hero_image{
+    display:none;
+} */

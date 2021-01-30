@@ -1,0 +1,30 @@
+.camera-product{
+    position: relative;
+    right: 450px;
+    top: 60px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+#product-button{
+    position: relative;
+    right: 450px;
+    top: 60px;  
+}
+.add-button{
+    height: 50px;
+    width: 26%;
+    color: white;
+    background-color: #ff9f00;
+}
+.buy-button{
+    height: 50px;
+    width: 26%;
+    color: white;
+    background-color: #fb641b;
+}
+.product-info{
+    font-size: 50px;
+    position: relative;
+    right: 1px;
+    bottom: 200px;
+}

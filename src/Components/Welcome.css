@@ -1,0 +1,124 @@
+.hero_image{
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    left: 10px;
+}
+.camera_image{
+    position: relative;
+    top: 250px;
+    right: 500px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+.camera-button{
+   position: absolute;
+   top: 94%;
+   right: 1114px;
+   width: 170px;
+   background-color: lightgreen;
+}
+.camera-button:hover{
+    color: linen;
+    background-color:limegreen;
+    transition: 0.4s;
+}
+.marquee-tag{
+    color: linen;
+    font-style: italic;
+}
+.headphone-image{
+    border: 2px solid #000;
+    position: absolute;
+    bottom: 32px;
+    left: 300px;
+    cursor: pointer;
+}
+.headphone-button{
+    position:absolute;
+    top: 94%;
+    right: 896px;
+    width: 170px;
+    background-color: lightgreen;
+}
+.headphone-button:hover{
+    color: linen;
+    background-color: limegreen;
+    transition: 0.4s;
+}
+.watch-image{
+    position: absolute;
+    top: 69%;
+    right: 670px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+.watch-button{
+    position: absolute;
+    top: 94%;
+    right: 670px;
+    width: 170px;
+    background-color: lightgreen;
+}
+.watch-button:hover{
+    color: linen;
+    background-color:limegreen;
+    transition: 0.4s;
+}
+.tshirt-image{
+    position: absolute;
+    top: 69%;
+    right: 450px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+.tshirt-button{
+    position: absolute;
+    top: 94%;
+    width: 170px;
+    right: 450px;
+    background-color: lightgreen;
+}
+.tshirt-button:hover{
+    color: linen;
+    background-color:limegreen;
+    transition: 0.4s;
+}
+.cellphone-image{
+    position: absolute;
+    top: 69%;
+    right: 230px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+.cellphone-button{
+    position: absolute;
+    top: 94%;
+    right: 230px;
+    width: 170px;
+    background-color: lightgreen;
+}
+.cellphone-button:hover{
+    color: linen;
+    background-color:limegreen;
+    transition: 0.4s;
+}
+.laptop-image{
+    position: absolute;
+    top: 69%;
+    right: 20px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+.laptop-button{
+    position: absolute;
+    top: 94%;
+    right: 20px;
+    width: 170px;
+    background-color: lightgreen;
+}
+.laptop-button:hover{
+    color: linen;
+    background-color:limegreen;
+    transition: 0.4s;
+}

@@ -1,0 +1,109 @@
+body{
+    float: right;
+    /* background-color: rgb(210, 224, 147); */
+}
+body ul li .navbar-brand{
+    color:rgb(207, 198, 198);
+    font-size:26px;
+}
+body ul{
+    margin-right: 100px;
+}
+body li{
+    margin-right: 20px;
+    font-weight: 700;
+}
+.navbar-brand{
+    padding-bottom: 15px;
+}
+.navbar-brand:hover{
+    color: rgb(40, 7, 44);
+    transition: 0.4s;
+}
+.container{
+    height: 60px;
+    box-shadow: 0px 1px 6px rgba(102, 73, 73, 0.8);
+    padding-left: 60px;
+    width: 100%;
+    background-color:#a02a7e;
+    border-radius: 10px;
+    line-height: 40px;
+}
+.navbar{
+    margin-top: 8px;
+}
+.search-bar{
+    display: block;
+    position: absolute;
+    left:12%;
+    top: 13px;
+    width: 25%;
+    height:55px;
+    border: 2px solid #000;
+    border-radius: 10px 0px 0px 10px;
+    padding-left: 30px;
+}
+.search-btn{
+    color:black;
+    position: absolute;
+    left:36%;
+    top: 13px;
+    height: 55px;
+}
+.search-btn:hover{
+    color: rgb(207, 198, 198);
+    background-color:#a02a7e ;
+    transition: 0.4s;
+}
+.nav-item1{
+    background-color: white;
+    width: 140px;
+    display: block;
+    margin-top: 6px;
+    position: absolute;
+    right:120px;
+    box-shadow: 0px 1px 6px rgba(102, 73, 73, 0.8);
+    border-radius: 8px;
+}
+.nav-subitem{
+    color: rgb(53, 11, 58);
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-size:20px;
+}
+.nav-subitem:hover{
+    color:rgb(207, 198, 198);
+    background-color:#a02a7e;
+    transition: 0.4s;
+}
+.nav-item1{
+display:none
+}
+ul li:hover ul li{
+    display: block;
+    transition: 0.4s;
+}
+.admin-dashboard{
+    list-style: none;
+}
+.admin-dashboard-link{
+    list-style: none;
+    text-decoration: none;
+    color:rgb(207, 198, 198);
+    background-color: #a02a7e;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+.admin-dashboard-link:hover{
+   color: rgb(53, 11, 58);  
+    transition: 0.4s;
+}
+.logo-image{
+  position: absolute;
+  left: 0px;
+  bottom:510px;
+  cursor: pointer;
+}
